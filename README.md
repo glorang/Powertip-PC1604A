@@ -28,4 +28,4 @@ pin 16 (GND backlight)		-> GND
 - Potentiometer pin 1 		-> GND
 - Potentiometer pin 3 		-> 5V
 
-![Powertip PC1604A](https://raw.github.com/glorang/glorang/Powertip-PC1604A/master/Powertip-PC1604A.jpg)
+![Powertip PC1604A](https://raw.githubusercontent.com/glorang/Powertip-PC1604A/master/Powertip-PC1604A.jpg)
